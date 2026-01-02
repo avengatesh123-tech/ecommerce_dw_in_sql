@@ -101,3 +101,4 @@ Go
 USE ecommerce_dw;
 GO
 
+
