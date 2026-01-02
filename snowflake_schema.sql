@@ -51,3 +51,4 @@ GO
 select * from gold_layer.fact_sales_snowflake;
 
 
+
